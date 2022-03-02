@@ -1,2 +1,4 @@
-# ufrgs_reatores_heterogeneos
-Chemical reaction engineering calculations
+# Chemical Reaction Engineering
+
+Check out some notebooks regarding my studies in Chemical Reaction Engineering, mainly heteregoneous reactions.
+
